@@ -4,3 +4,4 @@
 - Used 5 GPIO pins for each LED.
 - This is a brute force approch, which is obvious from the python code. As this is a beginner approch on how to use the GPIO pins on any board.
 - Circuit is shown [here](https://github.com/MahendraGL/Brute-force-Binary-Counter-5-bits-/blob/main/RPi_binary.jpg)
+- Demo video is shown [here](https://www.youtube.com/watch?v=k5frwuJBjqc)
