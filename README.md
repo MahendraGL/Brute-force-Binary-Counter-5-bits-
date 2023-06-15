@@ -3,3 +3,4 @@
 - Depicted by 5 green-LED connected to Raspberry-Pi 4 board.
 - Used 5 GPIO pins for each LED.
 - This is a brute force approch, which is obvious from the python code. As this is a beginner approch on how to use the GPIO pins on any board.
+- Circuit is shown [here](https://github.com/MahendraGL/Brute-force-Binary-Counter-5-bits-/blob/main/RPi_binary.jpg)
